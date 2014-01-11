@@ -17,7 +17,9 @@ The patch is available on repo.tihmstar.org simply install it via Cydia ;)
 
 
 For more information please check out my 2 Videos about this:
+
 English: https://www.youtube.com/watch?v=GJsWT-kQ9MY
+
 Deutsch: coming soon
 
 
