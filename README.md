@@ -13,7 +13,7 @@ Because waiting for evad3rs to fix this would mean being a while unprotected,
 uroboro and i created a hotpatch for this preventing files being written to
 evasi0n-install dir.
 
-The patch is available on repo.tihmstar.org simply install it via Cydia ;)
+The patch is available on http://repo.tihmstar.org simply install it via Cydia ;)
 
 
 For more information please check out my 2 Videos about this:
