@@ -13,6 +13,9 @@ Because waiting for evad3rs to fix this would mean being a while unprotected,
 uroboro and i created a hotpatch for this preventing files being written to
 evasi0n-install dir.
 
+This mylittlesecret.tar will install openssh + openssl on your device.
+Feel free to try this out yourself ;)
+
 The patch is available on http://repo.tihmstar.org simply install it via Cydia ;)
 
 
