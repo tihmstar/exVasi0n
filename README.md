@@ -16,7 +16,7 @@ evasi0n-install dir.
 This mylittlesecret.tar will install openssh + openssl on your device.
 Feel free to try this out yourself ;)
 
-THIS IS PATCHED NOW WITH evasi0n7 0.3 yo you don't need this patch anymore.
+THIS IS PATCHED NOW WITH evasi0n7 0.3 so you don't need this patch anymore.
 The patch is available on http://repo.tihmstar.org simply install it via Cydia ;)
 
 btw: @evad3rs you are such assholes not giving me any credit for finding this,
